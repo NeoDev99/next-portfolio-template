@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next Portfolio Template
 
-## Getting Started
+![GitHub repo size](https://img.shields.io/github/repo-size/NeoDev99/ai-powered-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/NeoDev99/ai-powered-portfolio?style=social)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/NeoDev99/ai-powered-portfolio)
+![GitHub forks](https://img.shields.io/github/forks/NeoDev99/ai-powered-portfolio?style=social)
+![GitHub followers](https://img.shields.io/github/followers/NeoDev99?label=Followers&logoColor=blue&style=flat)
 
-First, run the development server:
+Welcome to Next.js Portfolio Template. This is a modern, responsive, and customizable personal portfolio built with Next.js, TypeScript, and Tailwind CSS, designed to showcase projects, hobbies, and achievements with a clean, minimalistic layout.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Portfolio Cover](https://github.com/NeoDev99/next-portfolio-template/blob/main/public/cover/cover.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Table of Contents
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next Portfolio Template](#next-portfolio-template)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
 
-## Learn More
+- **Interactive Animations**: Engaging UI/UX powered by Framer-Motion and Tailwind-CSS animations.
+- **Project Showcase**: Displays past projects with interactive elements and live demos.
+- **Testimonials Section**: A rotating testimonials section to showcase feedback from clients or collaborators.
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **[Next.js](https://nextjs.org/)**: A powerful React framework for server-side rendering and static site generation.
+- **[TypeScript](https://www.typescriptlang.org/)**: A statically typed language that enhances code reliability.
+- **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for building responsive and modern UI quickly.
+- **[Framer Motion](https://www.framer.com/motion/)**: For creating complex and smooth animations.
+- **[React](https://reactjs.org/)**: A library for building component-based user interfaces.
+- **[Next Image](https://nextjs.org/docs/api-reference/next/image)**: Next.js image optimization for improved loading performance.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+1. **Clone the repository**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   git clone https://github.com/NeoDev99/next-portfolio-template.git
+   cd next-portfolio-template
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+    Open your browser and navigate to `http://localhost:3000` to explore the project.
+
+## Contributing
+
+Contributions are highly welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes and commit them (`git commit -m 'Added new feature'`).
+4. Push the changes (`git push origin feature-name`).
+5. Open a pull request for review.
+
+## License
+
+This project is free to use for any purpose. Feel free to modify, distribute, and build upon it without any restrictions.
