@@ -18,7 +18,7 @@ Welcome to Next.js Portfolio Template. This is a modern, responsive, and customi
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Contributing](#contributing)
-  - [License](#licenset
+  - [License](#license)
 
 ## Features
 
