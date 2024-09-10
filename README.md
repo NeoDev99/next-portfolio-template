@@ -1,9 +1,9 @@
 # Next Portfolio Template
 
-![GitHub repo size](https://img.shields.io/github/repo-size/NeoDev99/ai-powered-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/NeoDev99/ai-powered-portfolio?style=social)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/NeoDev99/ai-powered-portfolio)
-![GitHub forks](https://img.shields.io/github/forks/NeoDev99/ai-powered-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/NeoDev99/next-portfolio-template)
+![GitHub stars](https://img.shields.io/github/stars/NeoDev99/next-portfolio-template?style=social)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/NeoDev99/next-portfolio-template)
+![GitHub forks](https://img.shields.io/github/forks/NeoDev99/next-portfolio-template?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/NeoDev99?label=Followers&logoColor=blue&style=flat)
 
 Welcome to Next.js Portfolio Template. This is a modern, responsive, and customizable personal portfolio built with Next.js, TypeScript, and Tailwind CSS, designed to showcase projects, hobbies, and achievements with a clean, minimalistic layout.
@@ -18,7 +18,7 @@ Welcome to Next.js Portfolio Template. This is a modern, responsive, and customi
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Contributing](#contributing)
-  - [License](#license)
+  - [License](#licenset
 
 ## Features
 
